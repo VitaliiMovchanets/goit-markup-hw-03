@@ -195,6 +195,15 @@ margin-bottom: 72px;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+.our-portfolio-list {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 24px;
+    row-gap: 48px;
 }
 
 .our-portfolio-title {
@@ -203,6 +212,7 @@ margin-bottom: 72px;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
+    margin-bottom: 72px;
 }
 
 .our-desiding {
