@@ -87,6 +87,10 @@ font-weight: 400;
     letter-spacing: 0.04em;
     color: #ffffff;
     cursor: pointer;
+    border-radius: 4px;
+    border: none;
+    height: 56px;
+    min-width: 169px;
     }
 
 .hero-btn:hover,
