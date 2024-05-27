@@ -188,3 +188,7 @@ color: #2e2f42;
     margin: 0 auto;
     padding: 0 15px;
  }
+
+ .images {
+    display: block;
+ }
