@@ -252,6 +252,7 @@ margin-bottom: 72px;
 }
 .logo-footer-part {
     color:#f4f4fd;
+    display: inline-block;
 }
 
  .logo-footer {
