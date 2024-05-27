@@ -113,6 +113,7 @@ color: #2e2f42;
 
 .our-team-imagenes {
     background-color: #FFFFFF;
+    display: block;
 }
 
 .our-team-names {
@@ -177,4 +178,10 @@ color: #2e2f42;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+ }
+
+ .container {
+    width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px;
  }
