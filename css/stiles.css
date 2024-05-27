@@ -61,6 +61,11 @@ font-weight: 400;
     color: #404bbf;
 }
 
+.address-stile {
+    display: flex;
+    gap: 40px;
+}
+
 .hero {
     background: #2e2f42;
 }
