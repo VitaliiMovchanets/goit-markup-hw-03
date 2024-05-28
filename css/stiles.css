@@ -91,6 +91,7 @@ font-weight: 400;
     border: none;
     height: 56px;
     min-width: 169px;
+    display: block;
     }
 
 .hero-btn:hover,
