@@ -270,6 +270,11 @@ margin-bottom: 72px;
     margin-bottom: 16px;
  }
 
+ element.style {
+    display: flex;
+    align-items: center;
+ }
+
  .container {
     width: 1158px;
     margin: 0 auto;
