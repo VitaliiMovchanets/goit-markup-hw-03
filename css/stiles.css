@@ -37,6 +37,7 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #2e2f42;
 padding: 24px 0;
+display: block;
 }
 
 .nav-link:hover,
@@ -97,6 +98,7 @@ font-weight: 400;
     height: 56px;
     min-width: 169px;
     display: block;
+    
     }
 
 .hero-btn:hover,
