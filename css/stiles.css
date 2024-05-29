@@ -140,11 +140,15 @@ flex-basis: calc((100% - 3 * 24px) / 4);
     clip-path: inset(100%);
     clip: rect(0 0 0 0);
     overflow: hidden;
+    margin-left: 0;
+    margin-right: 0;
 }
 
 .our-prioriti-text {
 line-height: 1.5;
 letter-spacing: 0.02em;
+margin-left: 0;
+margin-right: 0;
 }
 
 .our-team {
@@ -160,6 +164,8 @@ letter-spacing: 0.02em;
 text-transform: capitalize;
 color: #2e2f42;
 margin-bottom: 72px;
+margin-left: 0;
+margin-right: 0;
 }
 
 .team-list {
@@ -184,6 +190,8 @@ margin-bottom: 72px;
     color: #2e2f42;
     text-align: center;
     margin-bottom: 8px;
+    margin-left: 0;
+    margin-right: 0;
 }
 
 .info-team {
@@ -197,6 +205,8 @@ margin-bottom: 72px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: center;
+    margin-left: 0;
+    margin-right: 0;
 }
 
 .our-portfolio {
@@ -213,6 +223,7 @@ margin-bottom: 72px;
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
+  
 }
 
 .our-portfolio-list-li {
@@ -227,6 +238,8 @@ margin-bottom: 72px;
     line-height: 1.11;
     letter-spacing: 0.02em;
     margin-bottom: 72px;
+    margin-left: 0;
+        margin-right: 0;
 }
 
 .our-desiding {
@@ -235,11 +248,15 @@ margin-bottom: 72px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     margin-bottom: 8px;
+    margin-left: 0;
+    margin-right: 0;
 }
 
 .our-desiding-sector {
     line-height: 1.5;
     color: #434455;
+    margin-left: 0;
+    margin-right: 0;
 }
 
 .our-desiding-container {
@@ -258,6 +275,8 @@ margin-bottom: 72px;
     line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02em;
+    margin-left: 0;
+    margin-right: 0;
 }
 .logo-footer-part {
     color:#f4f4fd;
