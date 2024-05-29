@@ -85,7 +85,6 @@ font-weight: 400;
         max-width: 496px;
         margin-left: auto;
         margin-right: auto;
-        margin-bottom: 48;
 }
 .hero-btn {
     background: #4d5ae5;
@@ -324,4 +323,14 @@ margin-right: 0;
  .menu {
     display: flex;
     gap: 40px;
+ }
+
+ h1,
+ h2,
+ h3,
+ h4,
+ h5,
+ h6,
+ p {
+     margin: 0;
  }
