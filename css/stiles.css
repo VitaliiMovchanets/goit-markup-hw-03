@@ -83,8 +83,9 @@ font-weight: 400;
         letter-spacing: 0.02em;
         text-align: center;
         max-width: 496px;
-        margin-left: 0;
-        margin-right: 0;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 48;
 }
 .hero-btn {
     background: #4d5ae5;
